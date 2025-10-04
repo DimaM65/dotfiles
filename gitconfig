@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dmytriy.myroshnyk@gmail.com
+	name = Dima Myroshnyk
